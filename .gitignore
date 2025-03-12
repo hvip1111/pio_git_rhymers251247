@@ -1,0 +1,20 @@
+# Katalogi IDE
+.idea/
+.vscode/
+
+# Pliki kompilacji
+bin/
+target/
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+
+# Pliki zależności
+*.iml
+*.class
+*.log
+*.out
+*.jar
+*.war
+*.ear
