@@ -3,7 +3,7 @@ package edu.kis.vh.nursery;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class RhymersJUnitTest {
+public class RhymersJUnitTest { // projekt jest poprawny
 
     @Test
     public void testCountIn() {
